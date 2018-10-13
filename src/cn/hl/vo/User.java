@@ -1,5 +1,7 @@
 package cn.hl.vo;
-
+/*
+* modify by github 
+*/
 public class User {
 	private int id;
 	private String name;
